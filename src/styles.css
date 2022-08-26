@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.filecontainer{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: solid;
+    border-radius: 20px;
+    border-color: #0088cc;
+    text-align: center;
+    background-color: #e6f0ff;
+}

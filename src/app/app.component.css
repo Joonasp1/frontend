@@ -1,0 +1,14 @@
+button{
+    background-color: #0088cc;
+    border: none;
+    padding: 8px;
+    border-radius: 7px;
+}
+
+button:hover{
+    background-color: #67aacc;
+}
+
+button:active{
+    background-color: #0088cc;
+}
